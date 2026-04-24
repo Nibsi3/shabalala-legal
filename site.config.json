@@ -1,0 +1,108 @@
+{
+  "_meta": {
+    "generated_by": "Pixaloom Automation",
+    "generated_at": "2026-04-24T09:43:27.744Z",
+    "template": "Nibsi3/nordflam",
+    "category": "professional",
+    "style": "corporate",
+    "instructions": "AI: Replace all PLACEHOLDER_ values with real client data. Images are placeholders only — replace only if client requests."
+  },
+  "company": {
+    "name": "Shabalala Legal",
+    "slug": "shabalala-legal",
+    "industry": "lawyer",
+    "city": "Johannesburg",
+    "phone": "011 444 8888",
+    "email": "PLACEHOLDER_EMAIL",
+    "address": "Johannesburg, South Africa",
+    "website": "https://shabalala-legal.yourdomain.co.za",
+    "tagline": "PLACEHOLDER_TAGLINE_FOR_LAWYER_IN_JOHANNESBURG",
+    "description": "PLACEHOLDER_DESCRIPTION_OF_SHABALALA_LEGAL",
+    "year_founded": "PLACEHOLDER_YEAR",
+    "social": {
+      "facebook": "PLACEHOLDER_FACEBOOK",
+      "instagram": "PLACEHOLDER_INSTAGRAM",
+      "linkedin": "PLACEHOLDER_LINKEDIN"
+    }
+  },
+  "services": [
+    {
+      "title": "PLACEHOLDER_SERVICE_1",
+      "description": "PLACEHOLDER_SERVICE_1_DESC"
+    },
+    {
+      "title": "PLACEHOLDER_SERVICE_2",
+      "description": "PLACEHOLDER_SERVICE_2_DESC"
+    },
+    {
+      "title": "PLACEHOLDER_SERVICE_3",
+      "description": "PLACEHOLDER_SERVICE_3_DESC"
+    },
+    {
+      "title": "PLACEHOLDER_SERVICE_4",
+      "description": "PLACEHOLDER_SERVICE_4_DESC"
+    }
+  ],
+  "images": {
+    "hero": {
+      "id": "C1l1ZYkFB6Y",
+      "url": "https://images.unsplash.com/photo-1639944771750-abf4f30bf5ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHwxfHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1639944771750-abf4f30bf5ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHwxfHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "source": "unsplash",
+      "alt": "an old woman sitting at a table with two men in the background"
+    },
+    "about": {
+      "id": "g8t03pBlYCs",
+      "url": "https://images.unsplash.com/photo-1525945995886-0ede2bd49ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHwyfHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "thumb": "https://images.unsplash.com/photo-1525945995886-0ede2bd49ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHwyfHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=200",
+      "source": "unsplash",
+      "alt": "bird's-eye view photography of city"
+    },
+    "gallery": [
+      {
+        "id": "BYo84ZuJtHM",
+        "url": "https://images.unsplash.com/photo-1589453181211-c5187a472f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHwzfHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "thumb": "https://images.unsplash.com/photo-1589453181211-c5187a472f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHwzfHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=200",
+        "source": "unsplash",
+        "alt": "flag of us a on pole"
+      },
+      {
+        "id": "os7rk_Lh-XY",
+        "url": "https://images.unsplash.com/photo-1663743555914-4c948542f757?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHw0fHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "thumb": "https://images.unsplash.com/photo-1663743555914-4c948542f757?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHw0fHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=200",
+        "source": "unsplash",
+        "alt": "a man working on a laptop"
+      },
+      {
+        "id": "rMR9ympp-rM",
+        "url": "https://images.unsplash.com/photo-1689577179162-2a75623a477f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHw1fHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "thumb": "https://images.unsplash.com/photo-1689577179162-2a75623a477f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHw1fHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=200",
+        "source": "unsplash",
+        "alt": "a view of some very tall buildings in a city"
+      },
+      {
+        "id": "eiS5zH7G0L8",
+        "url": "https://images.unsplash.com/photo-1600168092637-6ef310988576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHw2fHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "thumb": "https://images.unsplash.com/photo-1600168092637-6ef310988576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NjgyNjN8MHwxfHNlYXJjaHw2fHxsYXd5ZXIlMjBvZmZpY2UlMjBwcm9mZXNzaW9uYWwlMjBzb3V0aCUyMGFmcmljYXxlbnwxfDB8fHwxNzc3MDIzNDUyfDA&ixlib=rb-4.1.0&q=80&w=200",
+        "source": "unsplash",
+        "alt": "people walking on sidewalk near brown concrete building during daytime"
+      }
+    ],
+    "logo": "PLACEHOLDER_LOGO_URL",
+    "favicon": "PLACEHOLDER_FAVICON_URL"
+  },
+  "colors": {
+    "primary": "PLACEHOLDER_PRIMARY_COLOR",
+    "secondary": "PLACEHOLDER_SECONDARY_COLOR",
+    "accent": "PLACEHOLDER_ACCENT_COLOR"
+  },
+  "pricing": {
+    "monthly": 200,
+    "currency": "ZAR",
+    "note": "Fixed forever. Building is free."
+  },
+  "pixaloom": {
+    "credit": "Built by Pixaloom",
+    "url": "https://pixaloom.co.za"
+  }
+}
